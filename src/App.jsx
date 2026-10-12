@@ -318,10 +318,10 @@ const openInvitation = () => {
             <p className="small-script">We joyfully invite you to the wedding of</p>
 
             <h1>
-              <small className="role">Bride <span lang="ar">العروس</span></small>
+             
               <span className="name-bride">{bride}</span>
               <span className="ampersand">&amp;</span>
-              <small className="role">Groom <span lang="ar">العريس</span></small>
+              
               <span className="name-groom">{groom}</span>
             </h1>
 
