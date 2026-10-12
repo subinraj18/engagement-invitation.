@@ -234,9 +234,13 @@ function App() {
   const [opened, setOpened] = useState(false);
   const [gone, setGone] = useState(false);
 
-  const openInvitation = () => {
+const openInvitation = () => {
     if (opened) return;
     setOpened(true);
+    
+    // Force the page to start at the top
+    window.scrollTo(0, 0);
+    
     window.setTimeout(() => setGone(true), 1600);
   };
 
