@@ -14,8 +14,7 @@ const venueName = "Lalas Convention Centre, Kollam";
 const venueAddress = [
   "Lalas Convention Centre,",
   "Chathannoor Road, Vailamon P.O,",
-  "Kollam, Kerala 691010",
-  "(Near Kollam Railway Station)",
+  "Kollam, Kerala, 691010",
 ];
 const mapLink =
   "https://www.google.com/maps/search/?api=1&query=Lalas+Convention+Centre+Kollam";
