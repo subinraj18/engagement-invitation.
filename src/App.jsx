@@ -438,7 +438,7 @@ const openInvitation = () => {
       </main>
 
       <footer>
-        Made with love · {bride} &amp; {groom}
+        Made with love · Subinraj for Biriyani
       </footer>
     </div>
   );
